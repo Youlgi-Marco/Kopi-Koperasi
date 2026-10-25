@@ -1,6 +1,0 @@
-{
-  "name": "KOPERASI - Kopi Pertemanan dan Relasi",
-  "description": "Modern coffee and artisan toast digital storefront with QRIS ordering and real-time live admin operations for Indonesian neighborhood coffee brand KOPERASI.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
